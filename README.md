@@ -1,1 +1,2 @@
-# Extens-o-Atual
+# Extens-o-Super-Crm
+Extensão SuperCrm
